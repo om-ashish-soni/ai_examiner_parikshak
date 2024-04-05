@@ -1,7 +1,7 @@
 # Parikshak AI Examiner 🌟
 
 ## Description
-This Streamlit app, "Parikshak AI Examiner," allows users to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
+This "Parikshak AI Examiner," allows teachers to analyze student answers using AI. It provides a user-friendly interface to upload images of student answers, input the extracted text, compare it with the teacher's answer, and evaluate the result.
 
 ## Usage
 1. **Upload Student Answer Photo**: Upload an image of the student's answer.
